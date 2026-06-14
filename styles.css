@@ -102,7 +102,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #7D3C98 0%, #3D1E5C 50%, #1a0a2e 100%);
     color: white;
     text-align: center;
     padding-top: 70px;
@@ -131,7 +131,7 @@ body {
     display: inline-block;
     padding: 14px 40px;
     background: white;
-    color: #667eea;
+    color: #7D3C98;
     text-decoration: none;
     border-radius: 50px;
     font-weight: 600;
@@ -246,7 +246,7 @@ section {
 /* Contact Section */
 .contact {
     padding: 100px 20px;
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    background: linear-gradient(135deg, #7D3C98 0%, #3D1E5C 50%, #1a0a2e 100%);
     color: white;
     text-align: center;
 }
@@ -259,7 +259,7 @@ section {
 
 .contact .cta-button {
     background: white;
-    color: var(--primary-color);
+    color: #7D3C98;
 }
 
 /* Footer */
